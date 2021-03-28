@@ -1,10 +1,6 @@
 # Get Mi Home Devices Token App
 
-![](https://raw.githubusercontent.com/Maxmudjon/images/master/mihomemov.gif)
-
-## Download
-
-[Releases](https://github.com/Maxmudjon/Get_MiHome_devices_token/releases)
+This is a CLI (Command Line Interface) version of the original app: [Maxmudjon/Get_MiHome_devices_token](https://github.com/Maxmudjon/Get_MiHome_devices_token)
 
 ## Install dependencies
 
@@ -12,28 +8,8 @@
 npm i
 ```
 
-Get Mi Home devices token Windows / Mac OS app.
-
-## Run on dev mode
+## Run it
 
 ```sh
 npm start
 ```
-
-### The electron folder is created in the project director and applications will be built there.
-
-### Build Windows
-
-```sh
-npm run win
-```
-
-### Build Mac
-
-```sh
-npm run mac
-```
-
-Paypal: <https://paypal.me/sallo>
-
-yoomoney: https://yoomoney.ru/to/410013864894090
